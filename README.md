@@ -15,3 +15,7 @@ To nail it:
 1. Change unicorn port 8080 [Source](https://stackoverflow.com/questions/33254100/502-whoops-gitlab-is-taking-too-much-time-to-respond)
 
 2. 
+
+3. `gitlab-ctl reconfigure`
+
+4. `sudo service gitlab restart`
