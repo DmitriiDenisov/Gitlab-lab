@@ -6,6 +6,10 @@
 1. https://about.gitlab.com/install/#ubuntu
 2. https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-gitlab-on-ubuntu-18-04
 
+## Config:
+
+`sudo vim /etc/gitlab/gitlab.rb`
+
 ## Troubleshooting:
 
 In case other services takes GitLab ports, in order to find it out `sudo gitlab-ctl tail` and see logs.
