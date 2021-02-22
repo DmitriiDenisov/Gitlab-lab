@@ -22,4 +22,4 @@ To nail it:
 
 3. `gitlab-ctl reconfigure`
 
-4. `sudo gitlab-ctl start`
+4. `sudo gitlab-ctl restart`
